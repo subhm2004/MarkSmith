@@ -1,0 +1,8 @@
+{
+  "name": "MarkSmith",
+  "short_name": "MarkSmith",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2d2e35",
+  "background_color": "#ffffff"
+}
